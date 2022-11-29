@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Prashant1562/Prashant1562/blob/main/Tech%20Consultant%20business%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Prashant Rao Gunjal</h1>
 <h3 align="center">An aspiring full-stack web developer 💻</h3>
-<h4>'m a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing video games 🎮. I ♥️ talking about creative coding, so don't hesitate to reach out 😃</h4
+<h4>'m a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing video games 🎮. I ♥️ talking about creative coding, so don't hesitate to reach out 😃</h4>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant1562&label=Profile%20views&color=0e75b6&style=flat" alt="prashant1562" /> </p>
