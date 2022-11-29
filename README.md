@@ -1,4 +1,4 @@
-![MaterHead](https://www.canva.com/design/DAFTTyrDH4E/N2gZQQ45dP95qcrliygDsA/edit?utm_content=DAFTTyrDH4E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![MasterHead](https://github.com/Prashant1562/Prashant1562/blob/main/Tech%20Consultant%20business%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Prashant Rao Gunjal</h1>
 <h3 align="center">An aspiring full-stack web developer 💻</h3>
 <h4>'m a computer enthusiast 💻. I love creating websites and I love to explore emerging web technologies. I'm skilled in the MERN stack. I've built some cool projects. Do check them out. Apart from coding, I love reading books 📘, listening to music 🎵, and playing video games 🎮. I ♥️ talking about creative coding, so don't hesitate to reach out 😃</h4
