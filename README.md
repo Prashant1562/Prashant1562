@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **prashantraogunjal1562@gmail.com**
 
-- ⚡ Resume <a href="<a href="https://prashant1562.github.io/" target="blank">Check out My Portfolio</a>" target="blank">Check my Resume</a>
+- ⚡ Resume <a href="<a href="https://prashant1562.github.io/" target="blank">Check out My Portfolio</a>
 
 - Want to know more about me? <a href="https://prashant1562.github.io/" target="blank">Check out My Portfolio</a>
 
