@@ -8,7 +8,7 @@
  
  - 🔭 I’m currently working on something cool 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React-Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Prashant1562](https://github.com/Prashant1562)
 
