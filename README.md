@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashant1562&label=Profile%20views&color=0e75b6&style=flat" alt="prashant1562" /> </p>
  
-- 🌱 I’m currently learning **React-Redux**
-- 👨‍💻 All of my projects are available at [https://github.com/Prashant1562](https://github.com/Prashant1562)
-- 💬 Ask me about **MERN**
+🔭 I’m currently working on Full Stack Website<br>👯 I’m looking to collaborate on MERN Projects<br>🌱 I’m currently learning DSA<br>💬 Ask me about MERN<br>
 - 📫 How to reach me **prashantraogunjal1562@gmail.com**
 - ⚡ Resume <a href="https://drive.google.com/file/d/1o5MOOx4HK3eRZIvBpbGjWMHeRyfAyJHv/view?usp=sharing" target="blank">Check out My Resume</a>
 
