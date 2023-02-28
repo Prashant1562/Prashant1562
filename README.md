@@ -34,4 +34,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prashant1562&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant1562&" alt="prashant1562" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashant1562&" alt="prashant1562" /></p> -->
