@@ -8,9 +8,9 @@
  
 🔭 I’m currently working on Full Stack Website<br>👯 I’m looking to collaborate on MERN Projects<br>🌱 I’m currently learning DSA<br>💬 Ask me about MERN<br>
 - 📫 How to reach me **prashantraogunjal1562@gmail.com**
-- ⚡ Resume <a href="https://drive.google.com/file/d/1M7Vv224MuamScfzVoTVG9vgTnyHIQkGf/view?usp=sharing" target="blank">Check out My Resume</a>
+- ⚡ Resume <a href="https://drive.google.com/file/d/1M7Vv224MuamScfzVoTVG9vgTnyHIQkGf/view?usp=sharing" target="_blank">Check out My Resume</a>
 
-- Want to know more about me? <a href="https://prashant1562.github.io" target="blank">Check out My Portfolio</a>
+- Want to know more about me? <a href="https://prashant1562.github.io" target="_blank">Check out My Portfolio</a>
 
 ## 🌐 Connect with me:
 <p align="left">
